@@ -489,8 +489,18 @@ progress {
 }
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 1.10rem;
   font-weight: 300;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.lead_education {
+  font-size: 1.10rem;
+  font-weight: 300;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .display-1 {
